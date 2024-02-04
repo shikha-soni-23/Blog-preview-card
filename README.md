@@ -30,7 +30,7 @@ Blog Card active state :
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://fmss-blog-card-preview.netlify.app/)
 
 ## My process
 
